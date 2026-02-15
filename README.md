@@ -1,2 +1,2 @@
 # CCL
-Cloud Computing Projects
+This repository contains programs/ projects performed in the Cloud Computing Lab of college.
